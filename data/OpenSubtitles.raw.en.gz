@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><link rel="shortcut icon" href="/images/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png"/><title>404: This page could not be found</title><meta name="next-head-count" content="7"/><link rel="shortcut icon" href="favicon.ico"/><link rel="preload" href="/_next/static/css/eebf4bcfb84eb430.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/eebf4bcfb84eb430.css" crossorigin="" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="/_next/static/chunks/webpack-2ccd7617f9a4fa4e.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/framework-22cfecf4e76e9eba.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/main-39e62e39b0010e99.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/pages/_app-5bda1821319c4aa1.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/pages/_error-e4e61d7eeeaedfdc.js" defer="" crossorigin=""></script><script src="/_next/static/GR9_WwYcZ0x97KVO1jpOM/_buildManifest.js" defer="" crossorigin=""></script><script src="/_next/static/GR9_WwYcZ0x97KVO1jpOM/_ssgManifest.js" defer="" crossorigin=""></script></head><body><div id="__next"><script>!function(){try{var d=document.documentElement,n='data-theme',s='setAttribute';var e=localStorage.getItem('theme');if('system'===e||(!e&&true)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';d[s](n,'dark')}else{d.style.colorScheme = 'light';d[s](n,'light')}}else if(e){d[s](n,e|| '')}if(e==='light'||e==='dark')d.style.colorScheme=e}catch(e){}}()</script><div><nav class="Layout_nav__BY5_j"><a style="text-decoration:none" href="/"><img alt="opus logo" loading="lazy" width="80" height="33" decoding="async" data-nimg="1" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopus_medium.a94dc99d.png&amp;w=96&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopus_medium.a94dc99d.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopus_medium.a94dc99d.png&amp;w=256&amp;q=75"/></a><div></div><div class="Layout_searchInputsNavbar__5HPLU"><div class="Layout_singleInput__aVKaW" id="selected"><div><div role="combobox" id="rw_2965_input" aria-owns="rw_2966_listbox" aria-controls="rw_2966_listbox" aria-expanded="false" aria-haspopup="listbox" aria-busy="false" aria-autocomplete="list" aria-disabled="false" aria-readonly="false" tabindex="-1" data-intent="mouse" class="rw-dropdown-list rw-widget"><div tabindex="-1" class="rw-widget-input rw-widget-picker rw-widget-container"><div class="rw-dropdown-list-input"><input tabindex="-1" aria-hidden="true" class="rw-detect-autofill rw-sr" value=""/><input class="rw-dropdownlist-search" autoComplete="off" size="2" value=""/><span class="rw-dropdown-list-value"><span class="rw-placeholder">Afar (source)</span></span></div><span aria-hidden="true" class="rw-btn rw-picker-caret"><svg height="1em" fill="currentcolor" viewBox="0 0 320 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg></span></div></div></div></div><div class="Layout_singleInput__aVKaW"><div role="combobox" id="rw_2968_input" aria-owns="rw_2969_listbox" aria-controls="rw_2969_listbox" aria-expanded="false" aria-haspopup="listbox" aria-busy="false" aria-autocomplete="list" aria-disabled="false" aria-readonly="false" tabindex="-1" data-intent="mouse" class="rw-dropdown-list rw-widget"><div tabindex="-1" class="rw-widget-input rw-widget-picker rw-widget-container"><div class="rw-dropdown-list-input"><input tabindex="-1" aria-hidden="true" class="rw-detect-autofill rw-sr" value=""/><input class="rw-dropdownlist-search" autoComplete="off" size="2" value=""/><span class="rw-dropdown-list-value"><span class="rw-placeholder">Abkhazian (target)</span></span></div><span aria-hidden="true" class="rw-btn rw-picker-caret"><svg height="1em" fill="currentcolor" viewBox="0 0 320 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg></span></div></div></div><button class="Layout_searchButtonDisabled__oBM4z" disabled=""><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></button></div><div class="Layout_navlinks___NOYr"><a class="Layout_navlink__OI2Nk" href="/contact">Contribute</a><a class="Layout_navlink__OI2Nk" href="/publications">Publications</a><a class="Layout_navlink__OI2Nk Buttons_secondaryButton__NqomP" href="/corpora">Corpora</a><a class="Layout_navlink__OI2Nk Buttons_primaryButton__BuCGT" href="/mt/eng&amp;fra&amp;all/bleu&amp;all">Dashboard</a></div><div class="Layout_hamburger__enStY"><div class="hamburger-react" aria-expanded="false" role="button" style="cursor:pointer;height:48px;position:relative;transition:0.4s cubic-bezier(0, 0, 0, 1);user-select:none;width:48px;outline:none;transform:none" tabindex="0"><div style="background:currentColor;height:3px;left:8px;position:absolute;width:32px;top:13px;transition:0.4s cubic-bezier(0, 0, 0, 1);transform:none"></div><div style="background:currentColor;height:3px;left:8px;position:absolute;width:32px;top:23px;transition:0.4s cubic-bezier(0, 0, 0, 1);transform:none"></div><div style="background:currentColor;height:3px;left:8px;position:absolute;width:32px;top:33px;transition:0.4s cubic-bezier(0, 0, 0, 1);transform:none"></div></div></div><div class="Layout_hidden__LVgSj"><a class="Layout_hamburgerNavlink___MIRg" href="/contact">Contribute</a><a class="Layout_hamburgerNavlink___MIRg" href="/publications">Publications</a><a class="Layout_hamburgerNavlink___MIRg" href="/corpora"><button class="Layout_corporaButtonNavbar__OlQic">Corpora</button></a><a class="Layout_hamburgerNavlink___MIRg" href="/mt/eng&amp;fra&amp;all/bleu&amp;all"><button class="Layout_corporaButtonNavbar__OlQic">Dashboard</button></a></div></nav><style>
+    #nprogress {
+      pointer-events: none;
+    }
+    #nprogress .bar {
+      background: #29D;
+      position: fixed;
+      z-index: 9999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+    }
+    #nprogress .peg {
+      display: block;
+      position: absolute;
+      right: 0px;
+      width: 100px;
+      height: 100%;
+      box-shadow: 0 0 10px #29D, 0 0 5px #29D;
+      opacity: 1;
+      -webkit-transform: rotate(3deg) translate(0px, -4px);
+      -ms-transform: rotate(3deg) translate(0px, -4px);
+      transform: rotate(3deg) translate(0px, -4px);
+    }
+    #nprogress .spinner {
+      display: block;
+      position: fixed;
+      z-index: 1031;
+      top: 15px;
+      right: 15px;
+    }
+    #nprogress .spinner-icon {
+      width: 18px;
+      height: 18px;
+      box-sizing: border-box;
+      border: solid 2px transparent;
+      border-top-color: #29D;
+      border-left-color: #29D;
+      border-radius: 50%;
+      -webkit-animation: nprogresss-spinner 400ms linear infinite;
+      animation: nprogress-spinner 400ms linear infinite;
+    }
+    .nprogress-custom-parent {
+      overflow: hidden;
+      position: relative;
+    }
+    .nprogress-custom-parent #nprogress .spinner,
+    .nprogress-custom-parent #nprogress .bar {
+      position: absolute;
+    }
+    @-webkit-keyframes nprogress-spinner {
+      0% {
+        -webkit-transform: rotate(0deg);
+      }
+      100% {
+        -webkit-transform: rotate(360deg);
+      }
+    }
+    @keyframes nprogress-spinner {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div style="line-height:48px"><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding-right:23px;font-size:24px;font-weight:500;vertical-align:top">404</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:28px">This page could not be found<!-- -->.</h2></div></div></div><div><div class="Layout_footer__2AN9N"><div class="Layout_footerColumns__nux0J"><div><a class="Layout_opusToolsButton__fGYiq" href="/OPUS-Tools"> <h3 class="Layout_toolsAndInfoTitle__o0xe4">Tools &amp; Info</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a><div class="Layout_footerColumn__eCMQ0"><a target="_blank" class="Layout_footerLink__tQtwm" href="https://opus.nlpl.eu/opusapi/">Opus API</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/hplt-project/OpusTrainer"><span>Opus</span> Trainer</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/hplt-project/OpusCleaner"><span>Opus</span> Cleaner</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://opus.nlpl.eu/legacy/lex.php"><span>Opus</span> Wordalign</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/Helsinki-NLP/OpusFilter">Opus Filter</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/Helsinki-NLP/OPUS-translator">Opus Translator</a><div class="Layout_socialLinks__HynkC"><a target="_blank" class="undefined Layout_githubLink__gizW1" href="https://github.com/Helsinki-NLP/OPUS"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></div></div></div><div class="Layout_footerColumn__eCMQ0 Layout_secondColumn__1dUSj"> <a target="_blank" class="Layout_footerLink__tQtwm" href="https://opus.nlpl.eu/bin/opuscqp.pl">Opus Query</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/Helsinki-NLP/OpusTools">Opus Tools (Python Package)</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/Helsinki-NLP/OpusTools-perl">Opus Tools (Perl Package)</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/thammegowda/mtdata">MT-Data</a><a target="_blank" class="Layout_footerLink__tQtwm" href="https://github.com/robertostling/eflomal">Eflomal Word Aligner</a><a class="Layout_contributeCtaFooter__qNrT6" href="/contact">Contribute to OPUS</a><p style="margin-top:15px">Icons by<!-- --> <a target="_blank" class="Layout_lucide__4KF8q" href="https://lucide.dev/license">Lucide</a></p></div></div><div class="Layout_visitors__aFQ0e"><a href="https://clustrmaps.com/site/19vsj" target="_blank" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&amp;w=a&amp;t=tt&amp;d=jb3_gRwq0W-55WUXelIQXTVQXy4zDuu5yhp8fuyAEZw" style="width:250px"/></a><a taget="_blank" class="Layout_legacyOpus__VfurG" href="https://opus.nlpl.eu/legacy">Opus Legacy</a></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json" crossorigin="">{"props":{"pageProps":{"statusCode":404}},"page":"/_error","query":{},"buildId":"GR9_WwYcZ0x97KVO1jpOM","nextExport":true,"isFallback":false,"gip":true,"scriptLoader":[]}</script></body></html>
